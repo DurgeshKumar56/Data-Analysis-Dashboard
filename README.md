@@ -1,4 +1,4 @@
-Pizza Sales Report
+Pizza Sales Report 
 🍕 Pizza Sales Dashboard (Power BI Project)
 An interactive Power BI dashboard that analyzes one year of pizza sales data to uncover insights into revenue trends, product performance, customer behavior, and sales by category and size.
 
